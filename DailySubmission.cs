@@ -19,11 +19,12 @@ namespace DailyReport
             Console.WriteLine("What course are you on?");
             string yourCourse = Console.ReadLine();
             Console.WriteLine("What page number?");
-            int max = int.MaxValue;
-            int min = int.MinValue;
-            Console.WriteLine($"{min} to {max}");
-            Console.ReadLine();
-
+            int pageNumber = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Do you need help with anything else?");
+            bool needHelpYes = true;
+            bool needHelpNo = false;
+            Console.WriteLine(needHelpYes);
+            Console.WriteLine(needHelpNo);
             
         }
     }
