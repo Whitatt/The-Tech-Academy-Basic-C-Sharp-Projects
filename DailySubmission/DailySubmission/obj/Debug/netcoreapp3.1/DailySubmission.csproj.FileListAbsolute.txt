@@ -1,0 +1,14 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\bin\Debug\netcoreapp3.1\DailySubmission.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\bin\Debug\netcoreapp3.1\DailySubmission.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\bin\Debug\netcoreapp3.1\DailySubmission.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\bin\Debug\netcoreapp3.1\DailySubmission.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\bin\Debug\netcoreapp3.1\DailySubmission.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\bin\Debug\netcoreapp3.1\DailySubmission.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\obj\Debug\netcoreapp3.1\DailySubmission.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\obj\Debug\netcoreapp3.1\DailySubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\obj\Debug\netcoreapp3.1\DailySubmission.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\obj\Debug\netcoreapp3.1\DailySubmission.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\obj\Debug\netcoreapp3.1\DailySubmission.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\obj\Debug\netcoreapp3.1\DailySubmission.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\obj\Debug\netcoreapp3.1\DailySubmission.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DailySubmission\DailySubmission\obj\Debug\netcoreapp3.1\DailySubmission.genruntimeconfig.cache

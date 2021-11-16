@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DailyReport
+namespace ConsoleApp1
 {
     internal class Program
     {
@@ -28,8 +28,6 @@ namespace DailyReport
             Console.WriteLine("How many hours did you study today?");
             int hoursStudied = Convert.ToInt32(Console.ReadLine());
 
-
-            
         }
     }
 }
