@@ -25,6 +25,13 @@ namespace DailyReport
             bool needHelpNo = false;
             Console.WriteLine(needHelpYes);
             Console.WriteLine(needHelpNo);
+            Console.ReadLine();
+            Console.WriteLine("Is there any other feedback you'd like to Provide? Please be specific.");
+            Console.ReadLine();
+            Console.WriteLine("How many hours did you study today?");
+            int hoursStudied = Convert.ToInt32(Console.ReadLine());
+
+
             
         }
     }
