@@ -44,11 +44,28 @@ namespace Mathand_ComparisonOperators
             Console.ReadLine();
 
             Console.WriteLine("Person1");
+            Console.ReadLine();
             Console.WriteLine("Hourly Rate");
-            int hourlyRate = 15;
-
+            int hourlyRate = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hours worked per week?");
-            int hoursWorked = 40;
+            int hoursWorked = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Person2");
+            Console.ReadLine();
+            Console.WriteLine("Hourly Rate");
+            Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hours worked per week?");
+            Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Annual salary of Person1:");
+            Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Annual salary of Person2:");
+            Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Does Person 1 make more money than Person 2?");
+            bool trueOrFalse = 31200 < 41600;
+            Console.WriteLine(trueOrFalse.ToString());
+            Console.ReadLine();
+
+
+
 
 
 
