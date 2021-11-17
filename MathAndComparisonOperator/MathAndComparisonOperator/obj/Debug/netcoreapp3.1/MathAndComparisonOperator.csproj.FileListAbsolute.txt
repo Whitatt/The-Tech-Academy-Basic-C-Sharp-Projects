@@ -1,0 +1,13 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\netcoreapp3.1\MathAndComparisonOperator.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\netcoreapp3.1\MathAndComparisonOperator.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\netcoreapp3.1\MathAndComparisonOperator.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\netcoreapp3.1\MathAndComparisonOperator.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\netcoreapp3.1\MathAndComparisonOperator.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\bin\Debug\netcoreapp3.1\MathAndComparisonOperator.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\netcoreapp3.1\MathAndComparisonOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\netcoreapp3.1\MathAndComparisonOperator.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\netcoreapp3.1\MathAndComparisonOperator.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\netcoreapp3.1\MathAndComparisonOperator.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\netcoreapp3.1\MathAndComparisonOperator.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\netcoreapp3.1\MathAndComparisonOperator.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperator\MathAndComparisonOperator\obj\Debug\netcoreapp3.1\MathAndComparisonOperator.genruntimeconfig.cache
