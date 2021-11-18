@@ -28,10 +28,17 @@ namespace BooleanLogic
 
             Console.WriteLine("What is your age?");
             int ageNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Have you ever had a DUI?");
-            bool noDUI = Convert.ToBoolean(false);
+            Console.WriteLine("Have you ever had a DUI? Please answer \"true\" or \"false\"");
+            bool myAnswer = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("How many speeding tickets do you have?");
             int speedingTickets = Convert.ToInt32(Console.ReadLine());
+            int ageOver = 15;
+            bool hasDUI = false;
+            int speedTickets = 3;
+            bool mustQualify = (ageOver > 15 && hasDUI && speedTickets < 3);
+            Console.WriteLine(mustQualify);
+            Console.ReadLine();
+            
 
 
 
