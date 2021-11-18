@@ -43,25 +43,24 @@ namespace Mathand_ComparisonOperators
             Console.WriteLine("Anonymous Income Comparison Program");
             Console.ReadLine();
 
-            Console.WriteLine("Person1");
+            Console.WriteLine("Person1");// this is person 1
             Console.ReadLine();
-            Console.WriteLine("Hourly Rate");
+            Console.WriteLine("Hourly Rate"); //this is your hourly rate
             int hourlyRate = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Hours worked per week?");
-            int hoursWorked = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Person2");
+            Console.WriteLine("Hours worked per week?"); //enter your hours worked
+            int hoursWorked = Convert.ToInt32(Console.ReadLine());// convert the hours worked into numbers.
+            Console.WriteLine("Person2"); //person 2 comparison
             Console.ReadLine();
             Console.WriteLine("Hourly Rate");
-            Convert.ToInt32(Console.ReadLine());
+            int hourlyRate2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hours worked per week?");
-            Convert.ToInt32(Console.ReadLine());
+            int hoursWorked2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Annual salary of Person1:");
-            Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(hourlyRate * hoursWorked); //this multiplies hourly rate and hours worked
             Console.WriteLine("Annual salary of Person2:");
-            Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(hourlyRate2 * hoursWorked2);
             Console.WriteLine("Does Person 1 make more money than Person 2?");
-            bool trueOrFalse = 31200 < 41600;
-            Console.WriteLine(trueOrFalse.ToString());
+            Console.WriteLine((hourlyRate * hoursWorked) > (hourlyRate2 * hoursWorked2)); //this will determine if person 1 earned more than person 2
             Console.ReadLine();
 
 
