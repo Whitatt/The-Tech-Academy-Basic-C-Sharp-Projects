@@ -29,15 +29,14 @@ namespace BooleanLogic
             Console.WriteLine("What is your age?");
             int ageNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Have you ever had a DUI? Please answer \"true\" or \"false\"");
-            bool myAnswer = Convert.ToBoolean(Console.ReadLine());
+            bool DUI = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("How many speeding tickets do you have?");
             int speedingTickets = Convert.ToInt32(Console.ReadLine());
-            int ageOver = 15;
-            bool hasDUI = false;
-            int speedTickets = 3;
-            bool mustQualify = (ageOver > 15 && hasDUI && speedTickets < 3);
-            Console.WriteLine(mustQualify);
-            Console.ReadLine();
+            bool mustQualify = (ageNumber > 15 && DUI == false && speedingTickets <= 3);//this will determine the age number is greater than 15 and they no dui's and their speeding tickets is less than or qual to 3
+            Console.WriteLine("Qualified?");
+            Console.WriteLine(mustQualify);//they will qualify if they meet the above stats
+            Console.ReadLine(); 
+            
             
 
 
