@@ -1,0 +1,14 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.genruntimeconfig.cache
