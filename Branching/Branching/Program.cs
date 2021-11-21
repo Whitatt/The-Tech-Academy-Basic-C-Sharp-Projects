@@ -11,10 +11,23 @@ namespace Branching
             Console.WriteLine("Please enter the package weight");
             int packWeight = Convert.ToInt32(Console.ReadLine());
 
-            string result = packWeight > 50 ? "Package too heavy to be shipped via Package Express. Have a good day." : "Please enter package width";
+            if (packWeight > 50)
+            {
+                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day" : "Please enter package width");
+            }
+            else
+            {
+                Console.WriteLine("Please enter the package width:");
+                int packWidth = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(result);
-            Console.ReadLine();
+                Console.WriteLine("Please enter the package height:");
+                int packHeight = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Please enter the package length");
+                int packLength = Convert.ToInt32(Console.ReadLine());
+            }
+
+           
 
 
 
