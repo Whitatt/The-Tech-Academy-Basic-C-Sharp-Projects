@@ -1,0 +1,13 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.genruntimeconfig.cache

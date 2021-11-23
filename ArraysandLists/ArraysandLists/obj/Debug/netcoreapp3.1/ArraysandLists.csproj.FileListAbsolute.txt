@@ -1,0 +1,14 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.genruntimeconfig.cache
