@@ -37,14 +37,12 @@ using System.Collections.Generic;
             Console.WriteLine($"This is array is the number you chose: {array[array1]}");
         }
 
-        var numbers = new List<int>();
-        numbers.Add(2);
-        numbers.Add(3);
-        numbers.Add(5);
-        numbers.Add(7);
-        Console.WriteLine("Please select a number 2, 3, 5, 7");
-        Console.WriteLine("LIST 1: " + numbers.Count);
-        Console.ReadLine();
+        List<string> intNumber = new List<string>();
+        
+
+        
+
+
 
 
 
