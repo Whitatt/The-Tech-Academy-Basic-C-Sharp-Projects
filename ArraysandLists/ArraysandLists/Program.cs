@@ -34,10 +34,17 @@ using System.Collections.Generic;
         }
         else
         {
-            Console.WriteLine($"This is array is the number you chose: {array[array1]}");
+            Console.WriteLine($"This array is the number you chose: {array[array1]}");
         }
 
-        List<string> intNumber = new List<string>();
+        List<string> stringList = new List<string>();
+
+        stringList.Add("What's");
+        stringList.Add("Up");
+        stringList.Add("Doc");
+
+        Console.WriteLine("Please select a number from 0 to 2");
+        
         
 
         
