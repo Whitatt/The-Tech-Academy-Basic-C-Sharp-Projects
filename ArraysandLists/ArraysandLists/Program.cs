@@ -44,6 +44,9 @@ using System.Collections.Generic;
         stringList.Add("Doc");
 
         Console.WriteLine("Please select a number from 0 to 2");
+        int userInput = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("You selected the item: " + stringList[userInput] + " at index number " + userInput);
         
         
 
