@@ -1,0 +1,13 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.genruntimeconfig.cache
