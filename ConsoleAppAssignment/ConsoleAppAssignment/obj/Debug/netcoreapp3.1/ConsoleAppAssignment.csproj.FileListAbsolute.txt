@@ -11,3 +11,4 @@ C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleA
 C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.dll
 C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.pdb
 C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.genruntimeconfig.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.csproj.AssemblyReference.cache

@@ -6,14 +6,25 @@ namespace ConsoleAppAssignment
     class Program
     {
         static void Main(string[] args)
-        {
-            string[] Cars = new string[4];
-            Cars[0] = "Toyota";
-            Cars[1] = "VW";
-            Cars[2] = "Pontiac";
-            Cars[3] = "AMC";
+        {   //Assignment Part 1
+            string[] Cars = { "Porsche", "Cadillac", "Toyota", "Ford", "Chevrolet" };
 
-            Console.WriteLine("Please select a number from 0 to 4");
+            //opening statement providing user instruction that prints to the console
+            Console.WriteLine("Name one country that makes the vehicles above listed?");
+            string response1 = (Console.ReadLine()); //user data entry
+
+            for (int i = 0; < Cars.Length; i++) // loop iterates array to # of index positions
+            {
+                Cars[i] = Cars[i] + response1; //statement that concatenates original array strings and user input
+                Console.WriteLine("Result = " + Cars[i]); //Updated array of strings that prints to console
+            }
+            Console.ReadLine(); // holds open program for next section of code to run
+
+            Console.WriteLine();
+
+
+
+            
         }
     }
 }
