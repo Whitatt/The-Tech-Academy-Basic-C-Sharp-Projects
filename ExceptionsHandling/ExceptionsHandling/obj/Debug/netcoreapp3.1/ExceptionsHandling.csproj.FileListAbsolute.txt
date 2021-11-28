@@ -1,0 +1,14 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.1\ExceptionsHandling.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.1\ExceptionsHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.1\ExceptionsHandling.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.1\ExceptionsHandling.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.1\ExceptionsHandling.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.1\ExceptionsHandling.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.1\ExceptionsHandling.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.1\ExceptionsHandling.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.1\ExceptionsHandling.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.1\ExceptionsHandling.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.1\ExceptionsHandling.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.1\ExceptionsHandling.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.1\ExceptionsHandling.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.1\ExceptionsHandling.genruntimeconfig.cache
