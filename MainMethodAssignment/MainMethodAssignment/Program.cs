@@ -13,18 +13,17 @@ namespace MainMethodAssignment
             // retrieve # from user and call method addition
             Console.WriteLine("Please enter a number to add to 7:");
             int userNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(Set.Addition(userNumber, 7));
+            Console.WriteLine(Set.MathMethod(userNumber));
 
             //retrieve # from user and call method multiply
             Console.WriteLine("Please enter a decimal number to be multiplied by 8:");
             decimal userInput = Convert.ToDecimal(Console.ReadLine());
-            Console.WriteLine(Set.Multiply(userInput, 8));
+            Console.WriteLine(Set.MathMethod(userInput));
 
             //retrieve # from user and call method multi
             Console.WriteLine("Please enter a number to be multiplied by 10:");
             String userString = Console.ReadLine();
-            int dub = Convert.ToInt32(userString);
-            Console.WriteLine(Set.Multi(dub, 10));
+            Console.WriteLine(Set.MathMethod(userString));
             Console.ReadLine();
         }
     }

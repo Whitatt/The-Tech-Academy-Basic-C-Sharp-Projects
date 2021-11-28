@@ -9,27 +9,27 @@ namespace MainMethodAssignment
     class Set
     {
         // Add the user's integer to another integer
-        public static int Addition(int userNumber, int y)
+        public static int MathMethod(int userNumber)
         {
-            int result = userNumber + y;
+            int result = userNumber + 7;
 
             return result;
         }
 
         // Multiply the user's decimal by an integer and return an integer as the answer
-        public static decimal Multiply(decimal userInput, int y)
+        public static int MathMethod(decimal userInput)
         {
-            int result = (int)userInput * y;
+            int result = (int)userInput * 8;
 
             return result;
         }
 
         // Multiplies the user's input by an integer
-        public static double Multi(int userString, int y)
+        public static int MathMethod(string userString)
         {
-            int result = userString * y;
+            int result = Convert.ToInt32(userString);
 
-            return result;
+            return result * 10;
         }
     }
 }
