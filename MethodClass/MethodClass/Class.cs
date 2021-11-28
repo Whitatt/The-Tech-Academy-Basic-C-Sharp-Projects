@@ -17,7 +17,7 @@ namespace MethodClass
             Console.WriteLine($"{intOne} multiplied by 8 = {result}");
             // Display unused integer
             Console.WriteLine("Unused integer: " + intTwo);
-            return;
+            
         }
     }
 }
