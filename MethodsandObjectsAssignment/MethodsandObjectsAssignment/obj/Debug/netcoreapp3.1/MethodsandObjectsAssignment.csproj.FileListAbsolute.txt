@@ -1,0 +1,14 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.genruntimeconfig.cache
