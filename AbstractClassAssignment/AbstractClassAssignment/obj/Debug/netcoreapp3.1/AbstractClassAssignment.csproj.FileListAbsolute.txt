@@ -1,0 +1,14 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.genruntimeconfig.cache
