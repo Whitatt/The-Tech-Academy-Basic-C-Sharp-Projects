@@ -6,21 +6,11 @@ using System.Threading.Tasks;
 
 namespace PolymorphismAssignment
 {
-    //Sub-class that inherits super-class Person 
-    public class Employee : Person, IQuittable  //multiple inheritances
+    public class Employee : Person, IQuittable
     {
-        //override keyword in this method allows SayName() method to be instantiated
-        //in cooperation with the virtual keyword in Person.cs
-        public override void SayName()
-        {
-            base.SayName();  //calls SayName() method
-        }
-        //inherited method from IQuittable interface
-        //note: satisfies requirement even with no implementation
         public void Quit()
         {
-            //temporary exception until implementation code is added
-            Console.WriteLine("Informed HR. their last day of work will be today.");
+            Console.WriteLine("An employee is no longer with us");
         }
     }
 }

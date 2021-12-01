@@ -6,17 +6,14 @@ using System.Threading.Tasks;
 
 namespace PolymorphismAssignment
 {
-    public abstract class Person  //Super-class
+    public abstract class Person
     {
-        public string firstName { get; set; }  //Creates property FirstName
-        public string lastName { get; set; }  //Creates property LastName
+        public string firstName { get; set; }
+        public string lastName { get; set; }
 
-        //virtual method allows method to be instantiated despite abstract class nesting
-        public virtual void SayName()  //
+        public void SayName()
         {
-            //Writes this text instantiating the firstName and lastName via the main program
-            Console.WriteLine(firstName + " " + lastName);
-
+            Console.WriteLine("Name: " + firstName + " " + lastName);
         }
     }
 }
