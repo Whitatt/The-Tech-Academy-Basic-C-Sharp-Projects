@@ -1,0 +1,14 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\bin\Debug\netcoreapp3.1\PolymorphismAssignment.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignment\PolymorphismAssignment\obj\Debug\netcoreapp3.1\PolymorphismAssignment.genruntimeconfig.cache
