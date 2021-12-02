@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OverloadOperator
+namespace OperatorsAssignment
 {
     public class Employee //Class Employee
     {
@@ -15,7 +15,7 @@ namespace OverloadOperator
         public static bool operator ==(Employee employee1, Employee employee2)
         {
             //Condition that tests if ID's are equal
-            if (employee1.EmployeeID.Equals(employee2.EmployeeID))
+            if (employee1.EmployeeID == employee2.EmployeeID)
             {
                 return true; //return statement returns true if condition met (Equals)
             }
