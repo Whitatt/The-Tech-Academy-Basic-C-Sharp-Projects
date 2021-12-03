@@ -14,7 +14,7 @@ namespace ParsingEnumsAssignment
             //Try catch block to prepare for possible user input errors
             try
             {
-                //instantiated the ClassWithEnum
+                //instantiated the EnumClass
                 EnumClass variable = new EnumClass();
                 //Prompt user to enter day of the week
                 Console.WriteLine("Enter the current day of the week:");
