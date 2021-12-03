@@ -1,0 +1,14 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\netcoreapp3.1\LambdaSubmissionAssignment.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\netcoreapp3.1\LambdaSubmissionAssignment.genruntimeconfig.cache
