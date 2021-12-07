@@ -1,0 +1,14 @@
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\bin\Debug\netcoreapp3.1\DateandTimeAssignment.exe
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\bin\Debug\netcoreapp3.1\DateandTimeAssignment.deps.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\bin\Debug\netcoreapp3.1\DateandTimeAssignment.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\bin\Debug\netcoreapp3.1\DateandTimeAssignment.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\bin\Debug\netcoreapp3.1\DateandTimeAssignment.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\bin\Debug\netcoreapp3.1\DateandTimeAssignment.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\obj\Debug\netcoreapp3.1\DateandTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\obj\Debug\netcoreapp3.1\DateandTimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\obj\Debug\netcoreapp3.1\DateandTimeAssignment.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\obj\Debug\netcoreapp3.1\DateandTimeAssignment.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\obj\Debug\netcoreapp3.1\DateandTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\obj\Debug\netcoreapp3.1\DateandTimeAssignment.dll
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\obj\Debug\netcoreapp3.1\DateandTimeAssignment.pdb
+C:\Users\whalt\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeAssignment\DateandTimeAssignment\obj\Debug\netcoreapp3.1\DateandTimeAssignment.genruntimeconfig.cache
