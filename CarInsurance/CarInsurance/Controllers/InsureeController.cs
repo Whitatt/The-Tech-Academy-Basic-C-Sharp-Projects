@@ -46,17 +46,16 @@ namespace CarInsurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType")] Insuree insuree)
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
             if (ModelState.IsValid)
             {
-                insuree = quoteLogic(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
 
-            return View();
+            return View(insuree);
         }
 
         // GET: Insuree/Edit/5
@@ -169,7 +168,6 @@ namespace CarInsurance.Controllers
                 insuree.Quote = insuree.Quote + (insuree.Quote * .50m);
             }
             return insuree;
-
         }
     }
 }
