@@ -4,7 +4,10 @@
   ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Get your Car Insurance Quote today!</h2>
+<p>
+  @Html.ActionLink("Click here to get your car insurance quote", "Create");
+</p>
 
 
 <table class="table">
@@ -17,6 +20,9 @@
     </th>
     <th>
       @Html.DisplayNameFor(model => model.LastName)
+    </th>
+    <th>
+      @Html.DisplayNameFor(model => model.EmailAddress)
     </th>
 
 
@@ -37,6 +43,12 @@
       </td>
       <td>
         @Html.DisplayFor(modelItem => item.EmailAddress)
+      </td>
+      <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+        @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.Id }) |
+
       </td>
     </tr>
   }

@@ -50,6 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = quoteLogic(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -124,9 +125,9 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
-        public Insuree quoteLogic(Insuree insuree)
+        public decimal quoteLogic(Insuree insuree)
         {
-            insuree.Quote = 50;
+            insuree.Quote = 50m;
             if ((DateTime.Now.Year - insuree.DateOfBirth.Year) <= 18)
             {
                 insuree.Quote = insuree.Quote + 100;
@@ -167,7 +168,7 @@ namespace CarInsurance.Controllers
             {
                 insuree.Quote = insuree.Quote + (insuree.Quote * .50m);
             }
-            return insuree;
+            return insuree.Quote;
         }
     }
 }
